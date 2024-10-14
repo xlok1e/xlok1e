@@ -14,9 +14,11 @@
 [![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)]()
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)]()
 [![React.native](https://img.shields.io/badge/React.native-61DAFB?style=for-the-badge&logo=react&logoColor=white)]()
-[![ChartJS](https://img.shields.io/badge/ChartJS-FF6384?style=for-the-badge&logo=chart-dot-js&logoColor=white)]()
+[![ChartJS](https://img.shields.io/badge/ChartJS-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white)]()
 [![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)]()
 [![Styled.components](https://img.shields.io/badge/Styled.components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)]()
+[![Framer.motion](https://img.shields.io/badge/Framer.Motion-1a1a1a?style=for-the-badge&logo=framer&logoColor=white)]()
+[![Charting.Library](https://img.shields.io/badge/TradingView.Charting.Library-000?style=for-the-badge&logo=tradingview&logoColor=white)]()
 
 ## Other technologies
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)]()
