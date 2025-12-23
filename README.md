@@ -1,5 +1,4 @@
 # 👋 Hello, I'm Egor
-
 > Frontend Developer passionate about creating exceptional web experiences
 
 ## 🚀 I work with
@@ -23,17 +22,20 @@
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
-
 ![And more more more...](https://img.shields.io/badge/and_more...-gray?style=for-the-badge)
 
 ## 🌱 Currently exploring
-
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-## 🛠️ Other tools I use
+## 🔧 Have some experience with
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+## 🛠️ Other tools I use
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/GA4-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
@@ -43,7 +45,6 @@
 ---
 
 ## 💼 About Me
-
 I work in fintech, participate in product hackathons, create content for YouTube, and believe in a bright future.
 
 Winner of the qualifying round of the 2025 Russian Federation of Sports Programming Championship
@@ -51,6 +52,5 @@ Winner of the qualifying round of the 2025 Russian Federation of Sports Programm
 ---
 
 ## 📫 How to reach me
-
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/egorlok1e)
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@xlok1e-it)
