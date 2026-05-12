@@ -47,7 +47,7 @@
 ## 💼 About Me
 I work in fintech, participate in product hackathons, create content for YouTube, and believe in a bright future.
 
-Winner of the qualifying round of the 2025 Russian Federation of Sports Programming Championship
+Winner of the qualifying round of the Russian Federation Sports Programming Championship in 2025 and finalist of the Russian Cup in 2026
 
 ---
 
